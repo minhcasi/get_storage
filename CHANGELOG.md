@@ -1,3 +1,8 @@
+## [2.1.3] 
+- Updated `get` package to 4.7.2 for full WASM compatibility
+- Fixed dart:html compatibility issues with WebAssembly builds
+- Improved web platform support using package:web API
+
 ## [2.1.2] 
 - Added WebAssembly (WASM) support for Flutter web
 - Improved performance and compatibility
